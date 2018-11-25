@@ -1,1 +1,7 @@
-Tässä on testitiedosto. Muutetaan sitä ensimmäisen kerran. Ja toisen kerran. 
+Tässä on testitiedosto. 
+
+Muutetaan sitä ensimmäisen kerran. 
+
+Ja toisen kerran.
+
+Ja kolmannen kerran. 
