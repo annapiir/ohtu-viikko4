@@ -5,3 +5,5 @@ Muutetaan sitä ensimmäisen kerran.
 Ja toisen kerran.
 
 Ja kolmannen kerran. 
+
+Ja vielä kerran stashaysta varten.
