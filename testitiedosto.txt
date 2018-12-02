@@ -7,3 +7,5 @@ Ja toisen kerran.
 Ja kolmannen kerran. 
 
 Ja vielä kerran stashaysta varten.
+
+Muutetaan commitin palautusta varten.
